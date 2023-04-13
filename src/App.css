@@ -1,0 +1,47 @@
+.iconplus{
+  margin-left: -30px;
+  font-size: 25px;
+  font-weight: 600;
+  color: magenta;
+}
+.edit{
+  margin-left: -30px;
+  font-size: 25px;
+  font-weight: 600;
+  color: magenta;
+}
+input{
+  padding: 7px;
+  width: 300px;
+}
+.showitem{
+  width: 300px;
+  border: 1px solid black;
+  margin-top: 10px;
+  padding: 5px;
+  background-color: indianred;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  margin-left: 164px;
+}
+.icontrash{
+  margin-left: -35px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  margin-right: 15px;
+}
+.main{
+  background-color: #FF8B13;
+  height: 100vh;
+  width: 100%;
+}
+.editicon{
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  margin-left: 105px;
+}
+
